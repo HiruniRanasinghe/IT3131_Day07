@@ -7,3 +7,5 @@ Example:
 Parent component defines a function and passes it as a prop to the child.
 
 Child component calls the function with the data when needed.
+
+![Output](https://github.com/user-attachments/assets/53430b26-1368-4cae-80b3-3acad7ec0933)
