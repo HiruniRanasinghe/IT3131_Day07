@@ -1,4 +1,4 @@
-# IT3131_Day07
+# IT3133_Day07
 
 To transfer data from a child to a parent component in React, you can use a function passed from the parent as a prop. The child component calls this function and passes the data back to the parent.
 
